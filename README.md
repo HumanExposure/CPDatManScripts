@@ -67,5 +67,9 @@ parse_pg_ingdisc_data.py	(Python file to parse disclosures into data set)
 
 4)	Unilever (UK)  
 collect_unil_ingdesc_htmls.R	(R file to download ingredient disclosures from Unilever)  
-parse_unil_ingdesc_data.R	(R file to parse disclosures into data set)
+parse_unil_ingdesc_data.R	(R file to parse disclosures into data set)  
+
+5) Drugstore.com  
+download_drugstore.R  (R file access, download, and parse product pages (HTML) from Drugstore.com)  
+processdata.R (R file to parse downloaded HTML data into data set)
 
